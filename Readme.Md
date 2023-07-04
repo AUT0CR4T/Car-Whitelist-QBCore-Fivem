@@ -1,8 +1,8 @@
 
-**ITEMS WHITELIST**
+**CARS WHITELIST**
 -----
 
-- This script lets you whitelist some items usage to a particular job only
+- This script lets you whitelist some vehicle usage to a particular job only
 
 
 **Installation**
